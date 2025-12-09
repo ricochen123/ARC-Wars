@@ -1,0 +1,25 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Auto-generated VS/JetBrains files
+.vs/
+.idea/
+*.sln
+*.csproj
+*.user
+*.pidb
+*.booproj
+*.svd
+
+# Unity generated files
+sysinfo.txt
+*.unityproj
+
+# OS-specific
+.DS_Store
+Thumbs.db

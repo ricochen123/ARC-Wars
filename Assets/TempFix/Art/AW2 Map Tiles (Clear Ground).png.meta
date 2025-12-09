@@ -1,0 +1,2190 @@
+fileFormatVersion: 2
+guid: 1315df81a9d28a74ab7d2a7b17918405
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1669312525282598955
+    second: AW2 Map Tiles (Clear Ground)_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b206498b5e69a2710800000000000000
+      internalID: 1669312525282598955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3152d46132e90b24cad6d1941b15b42e
+      internalID: 874281849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29a8ea82b781b74582b3cf83a2fa4b6
+      internalID: 383681775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66e3aba31d0e244383d0cd6e7ce9736
+      internalID: 758969699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31522b7f82a9cb449857071171c914d
+      internalID: -2106653403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e3447bee678514babffe7d7b6a516e
+      internalID: -896490750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9e6751266dffe4580a483d1289e6a3
+      internalID: 94194978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_7
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7a7dbbda884c447ad5dea495876de9
+      internalID: 270199696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d668554db971f8249833d792729bcbe0
+      internalID: 1151968288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669ecd3b7ff95f24f9d07583269e0170
+      internalID: 502176816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_10
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db7cf0ecfce5144cb69684a76f446b8
+      internalID: 744633750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_11
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89395a709bd210c4fbfd0af9f3f4622b
+      internalID: -45964363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2219f8a7df15d41b23407a95cabaef
+      internalID: 1605161940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b95f3dd907bf364cacafb73fd5fd72b
+      internalID: 1866269883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_14
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611579ab967cdc2409fcf9b1cd838caf
+      internalID: -219413501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_17
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8ad1199ec6ec5499fcac0fdc148a23
+      internalID: 977559599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_18
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47e18d51c559ed489230964763940d6
+      internalID: 871146708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_19
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b121bb5af0a0cf439d5d7757b317602
+      internalID: 947885474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_20
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430361acc46a58f4f8f7ad4f31aa460c
+      internalID: 668072456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 70
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f586f79502a5e4385e11f8e8a6e342
+      internalID: 399850593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463e28d113a838d44b834a09e14c60ca
+      internalID: 2010196815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_23
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b26e7cebd9a6646a000c8f85e578b8
+      internalID: -1096558549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_24
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d128e364a11724e8f5c29428a014f6
+      internalID: 1875148304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_25
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25831ebd62556304fa77f66249317e5f
+      internalID: -1205830269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa6d4690e3f1cb43a6dab8c5ee8fcfd
+      internalID: -699408358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_27
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49709c0c0b546704985a2b2e05e0d716
+      internalID: 999024537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_28
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3206459d3c665543bc4e90a60ede7ef
+      internalID: -1254884781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_29
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04a74e730aad8142a95992e25425219
+      internalID: -508789073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_30
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a916734582fb6af4282652d5992fa33c
+      internalID: -876262935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_31
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3176d664c339ae4bb41480d8f4eef84
+      internalID: 1689420130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_32
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900572e84a1965748880f787af984793
+      internalID: 57767019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_33
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67508b9b3a5a0d84f974eb99199cc9b0
+      internalID: 926290943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_34
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3c003a578e2ed4d85ee05e36d49968
+      internalID: -1867239705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec8faa7f5f0d614f8583a47bfe68ab6
+      internalID: 1008112997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_36
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e164828b51b18d4cb8d0178c881b054
+      internalID: 550302752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_39
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36da4da7951a324d91a75f1d59290fd
+      internalID: -1673758478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_40
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6962df0a83a8ad34ebf9218cbb229dcd
+      internalID: 1453387307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_41
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6212d647fc05ed74c91b577f91fd0e8c
+      internalID: -1001076124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_42
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5e5c30ec5abdf4e8a5df21f91ec87e
+      internalID: -439702012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_43
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 53
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e20fd1a31ebe5741bf8e634dd23c55f
+      internalID: -278487498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d9910f1536cd149a9f88f2ba7c707c
+      internalID: -1761590415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_45
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5675cf10d3768d7469a25d3a892d1778
+      internalID: 462728874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_46
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754efc96cdcd2244f92f8cdd18e6e7cc
+      internalID: -1009890491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_47
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495b0c5b8dadd33448770351e0489448
+      internalID: 425112326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_48
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735153d811587884d98afdc928232799
+      internalID: 1852423105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_49
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd16a58c60316904fadaf02baf6c5c5b
+      internalID: -615221421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_50
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd568c8b113800d46a8e3ff916c9cfc0
+      internalID: -1972421071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_51
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a801b9966d4f344183f1ff8e5639205
+      internalID: 1535152040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_52
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c651c8086812a474caf2e236e6181268
+      internalID: -1422300952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_53
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5abdd3b0d14b443b55462f61e52077
+      internalID: 1062288985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_54
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388afe9f12877c443913c1a65e4e45be
+      internalID: 758001500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_55
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dc19899b874ba4b94eea24ea68d550
+      internalID: -1971298396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_56
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973396da294f72241803524bd5c6a738
+      internalID: 1211431967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_57
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35521ec5d87ded40be50aad9880818e
+      internalID: 1807393891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_58
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a006b995310d3434784f600cf6c9af4f
+      internalID: -1323377923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_60
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa04dbb4294eb549839d33a96a1996f
+      internalID: -110750526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_61
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6653ab82017aee4b82ff5e491f66600
+      internalID: 1752451757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_62
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe6712dbfe9c984bb648f38ad741934
+      internalID: -831687635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_63
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574c56e252daf8a4699b14afa31ada1d
+      internalID: 661399952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_64
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fcccca71998b545983b5f3b903b7b7
+      internalID: 1629284588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_65
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 36
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e711dbd4a895f3c439a9662fd22bfe8b
+      internalID: 1973036558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_66
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5656083a889ad4f972411b29ae5cf4
+      internalID: 2074700311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_67
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feff6897fec5d054090788212a3d1bbf
+      internalID: -1989524354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_68
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c38b675cc19fd4b9a36badd578065e
+      internalID: -1175393750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_69
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7508155f455b4a744bcba4c00edb78c1
+      internalID: 192333243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_70
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ff81b1860e9984e861944b2e3e2ef7
+      internalID: 276815539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_71
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a6e7777587d5147baf61cae5ea5d56
+      internalID: 1423606810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_72
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3655448d3125ad040be40ea2d540e5fd
+      internalID: -1066916871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_73
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631de37e259db264e8604d57be8055de
+      internalID: -141005791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_74
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03933ad39c5bdd46888700171a8205a
+      internalID: 996711318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_75
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86687b5edc5e4a44aa78cc643ee6926
+      internalID: 1228485704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_76
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae97601b4df8484489299ad977d6e275
+      internalID: 2099997337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_77
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b3a0e6ebfff034b9d1f380b8116eca
+      internalID: 1208437622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_78
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fec512ec90d9e04095a2c029beb04a4
+      internalID: 430010016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf0191beac151a4e9f31e3156d24c00
+      internalID: -409613909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_80
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af13c9e6f4798848b81f7ffc61032d6
+      internalID: -2046405861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_82
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9858044d97243e64ea2655a4fa554845
+      internalID: 283489573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_83
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232202475930b474eab8223bf8050c40
+      internalID: 628886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_84
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a6ba87a541f754088babf5eebc18d2
+      internalID: -1190021025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_85
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33558b45685b4e14cab945075460ffa0
+      internalID: -1024780424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_86
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37652e916604c75428ef042b88a6848f
+      internalID: -1633628293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_87
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 19
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7a67cdca594804d867a5d6a45edf39
+      internalID: -674467535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_88
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acff961648a05e48823627fa8b2a3fc
+      internalID: -753497141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_104
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06514c2ce0819214382bcc47e6d1c52f
+      internalID: 56763007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_105
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89342ff76d71944e993ce8fc61f6616
+      internalID: 1337394635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_106
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e60acfb4dd340448fbedbf4b22ca68
+      internalID: -1675160377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_107
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6195bdc034abfde408a842cbc83bff6e
+      internalID: -657066391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_108
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9502b8d14dc763d4daf6987e697e00d3
+      internalID: 74849894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AW2 Map Tiles (Clear Ground)_109
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d967558078f4d4ab8dcfb7c9210a68
+      internalID: -750968737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ccfaef1fc05deae4c8bd30abbbb0fdad
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":3.0,"y":14.0},"gridSpritePadding":{"x":1.0,"y":1.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      AW2 Map Tiles (Clear Ground)_0: 1669312525282598955
+      AW2 Map Tiles (Clear Ground)_1: 874281849
+      AW2 Map Tiles (Clear Ground)_10: 744633750
+      AW2 Map Tiles (Clear Ground)_100: -2084520172
+      AW2 Map Tiles (Clear Ground)_101: -2107634170
+      AW2 Map Tiles (Clear Ground)_102: -470188972
+      AW2 Map Tiles (Clear Ground)_103: -2142573231
+      AW2 Map Tiles (Clear Ground)_104: 56763007
+      AW2 Map Tiles (Clear Ground)_105: 1337394635
+      AW2 Map Tiles (Clear Ground)_106: -1675160377
+      AW2 Map Tiles (Clear Ground)_107: -657066391
+      AW2 Map Tiles (Clear Ground)_108: 74849894
+      AW2 Map Tiles (Clear Ground)_109: -750968737
+      AW2 Map Tiles (Clear Ground)_11: -45964363
+      AW2 Map Tiles (Clear Ground)_12: 1605161940
+      AW2 Map Tiles (Clear Ground)_13: 1866269883
+      AW2 Map Tiles (Clear Ground)_14: -219413501
+      AW2 Map Tiles (Clear Ground)_15: 1527140919
+      AW2 Map Tiles (Clear Ground)_16: -586034877
+      AW2 Map Tiles (Clear Ground)_17: 977559599
+      AW2 Map Tiles (Clear Ground)_18: 871146708
+      AW2 Map Tiles (Clear Ground)_19: 947885474
+      AW2 Map Tiles (Clear Ground)_2: 383681775
+      AW2 Map Tiles (Clear Ground)_20: 668072456
+      AW2 Map Tiles (Clear Ground)_21: 399850593
+      AW2 Map Tiles (Clear Ground)_22: 2010196815
+      AW2 Map Tiles (Clear Ground)_23: -1096558549
+      AW2 Map Tiles (Clear Ground)_24: 1875148304
+      AW2 Map Tiles (Clear Ground)_25: -1205830269
+      AW2 Map Tiles (Clear Ground)_26: -699408358
+      AW2 Map Tiles (Clear Ground)_27: 999024537
+      AW2 Map Tiles (Clear Ground)_28: -1254884781
+      AW2 Map Tiles (Clear Ground)_29: -508789073
+      AW2 Map Tiles (Clear Ground)_3: 758969699
+      AW2 Map Tiles (Clear Ground)_30: -876262935
+      AW2 Map Tiles (Clear Ground)_31: 1689420130
+      AW2 Map Tiles (Clear Ground)_32: 57767019
+      AW2 Map Tiles (Clear Ground)_33: 926290943
+      AW2 Map Tiles (Clear Ground)_34: -1867239705
+      AW2 Map Tiles (Clear Ground)_35: 1008112997
+      AW2 Map Tiles (Clear Ground)_36: 550302752
+      AW2 Map Tiles (Clear Ground)_37: 470182418
+      AW2 Map Tiles (Clear Ground)_38: -456142329
+      AW2 Map Tiles (Clear Ground)_39: -1673758478
+      AW2 Map Tiles (Clear Ground)_4: -2106653403
+      AW2 Map Tiles (Clear Ground)_40: 1453387307
+      AW2 Map Tiles (Clear Ground)_41: -1001076124
+      AW2 Map Tiles (Clear Ground)_42: -439702012
+      AW2 Map Tiles (Clear Ground)_43: -278487498
+      AW2 Map Tiles (Clear Ground)_44: -1761590415
+      AW2 Map Tiles (Clear Ground)_45: 462728874
+      AW2 Map Tiles (Clear Ground)_46: -1009890491
+      AW2 Map Tiles (Clear Ground)_47: 425112326
+      AW2 Map Tiles (Clear Ground)_48: 1852423105
+      AW2 Map Tiles (Clear Ground)_49: -615221421
+      AW2 Map Tiles (Clear Ground)_5: -896490750
+      AW2 Map Tiles (Clear Ground)_50: -1972421071
+      AW2 Map Tiles (Clear Ground)_51: 1535152040
+      AW2 Map Tiles (Clear Ground)_52: -1422300952
+      AW2 Map Tiles (Clear Ground)_53: 1062288985
+      AW2 Map Tiles (Clear Ground)_54: 758001500
+      AW2 Map Tiles (Clear Ground)_55: -1971298396
+      AW2 Map Tiles (Clear Ground)_56: 1211431967
+      AW2 Map Tiles (Clear Ground)_57: 1807393891
+      AW2 Map Tiles (Clear Ground)_58: -1323377923
+      AW2 Map Tiles (Clear Ground)_59: 1089478019
+      AW2 Map Tiles (Clear Ground)_6: 94194978
+      AW2 Map Tiles (Clear Ground)_60: -110750526
+      AW2 Map Tiles (Clear Ground)_61: 1752451757
+      AW2 Map Tiles (Clear Ground)_62: -831687635
+      AW2 Map Tiles (Clear Ground)_63: 661399952
+      AW2 Map Tiles (Clear Ground)_64: 1629284588
+      AW2 Map Tiles (Clear Ground)_65: 1973036558
+      AW2 Map Tiles (Clear Ground)_66: 2074700311
+      AW2 Map Tiles (Clear Ground)_67: -1989524354
+      AW2 Map Tiles (Clear Ground)_68: -1175393750
+      AW2 Map Tiles (Clear Ground)_69: 192333243
+      AW2 Map Tiles (Clear Ground)_7: 270199696
+      AW2 Map Tiles (Clear Ground)_70: 276815539
+      AW2 Map Tiles (Clear Ground)_71: 1423606810
+      AW2 Map Tiles (Clear Ground)_72: -1066916871
+      AW2 Map Tiles (Clear Ground)_73: -141005791
+      AW2 Map Tiles (Clear Ground)_74: 996711318
+      AW2 Map Tiles (Clear Ground)_75: 1228485704
+      AW2 Map Tiles (Clear Ground)_76: 2099997337
+      AW2 Map Tiles (Clear Ground)_77: 1208437622
+      AW2 Map Tiles (Clear Ground)_78: 430010016
+      AW2 Map Tiles (Clear Ground)_79: -409613909
+      AW2 Map Tiles (Clear Ground)_8: 1151968288
+      AW2 Map Tiles (Clear Ground)_80: -2046405861
+      AW2 Map Tiles (Clear Ground)_81: -1284330236
+      AW2 Map Tiles (Clear Ground)_82: 283489573
+      AW2 Map Tiles (Clear Ground)_83: 628886
+      AW2 Map Tiles (Clear Ground)_84: -1190021025
+      AW2 Map Tiles (Clear Ground)_85: -1024780424
+      AW2 Map Tiles (Clear Ground)_86: -1633628293
+      AW2 Map Tiles (Clear Ground)_87: -674467535
+      AW2 Map Tiles (Clear Ground)_88: -753497141
+      AW2 Map Tiles (Clear Ground)_89: -1468650316
+      AW2 Map Tiles (Clear Ground)_9: 502176816
+      AW2 Map Tiles (Clear Ground)_90: 96228840
+      AW2 Map Tiles (Clear Ground)_91: 710937174
+      AW2 Map Tiles (Clear Ground)_92: -42642710
+      AW2 Map Tiles (Clear Ground)_93: 422929440
+      AW2 Map Tiles (Clear Ground)_94: 419236682
+      AW2 Map Tiles (Clear Ground)_95: 296644264
+      AW2 Map Tiles (Clear Ground)_96: -1461491419
+      AW2 Map Tiles (Clear Ground)_97: 418489260
+      AW2 Map Tiles (Clear Ground)_98: 1348289383
+      AW2 Map Tiles (Clear Ground)_99: -145072763
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
