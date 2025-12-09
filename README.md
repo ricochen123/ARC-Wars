@@ -1,9 +1,9 @@
-# 🎮 ARC WARS
+#  ARC WARS
 Turn-based strategy game inspired by *Advance Wars*, built in **Unity**.
 
 ---
 
-## 🧠 About the Game
+##  About the Game
 ARC Wars is a **turn-based tactical strategy game** where players command armies on a grid-based map.  
 Each player controls units such as Infantry, Tanks, Artillery, and Helicopters, competing to capture buildings, earn gold, and eliminate enemies.  
 
