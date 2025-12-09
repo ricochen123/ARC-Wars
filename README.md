@@ -1,7 +1,6 @@
 #  ARC WARS
 Turn-based strategy game inspired by *Advance Wars*, built in **Unity**.
 
----
 
 ##  About the Game
 ARC Wars is a **turn-based tactical strategy game** where players command armies on a grid-based map.  
@@ -10,7 +9,6 @@ Each player controls units such as Infantry, Tanks, Artillery, and Helicopters, 
 Players must balance **strategy** (resource management, positioning, and capturing) with **tactics** (choosing which units to move or attack).  
 The game supports multiple modes — **2P**, **3P**, and **4P** — with different maps for each.
 
----
 
 ##  How to Play
 
@@ -40,9 +38,8 @@ Capture your opponent’s HQ or eliminate all enemy units to win the match.
   **or**
 - Defeat all enemy units on the map.
 
----
 
-## 🛠️ How to Run the Game
+##  How to Run the Game
 
 ### Option 1 — Play in Unity
 1. Clone or download this repository:
