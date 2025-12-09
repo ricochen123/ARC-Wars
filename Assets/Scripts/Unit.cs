@@ -1,7 +1,6 @@
 using UnityEngine;
 
 
-// ADD UNITS HERE CHRISTIAN 
 public enum UnitType
 {
     Infantry,
